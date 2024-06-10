@@ -1,0 +1,49 @@
+body{
+    background: url(header.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.hm1{
+    background-color: chocolate;
+    padding: 10px;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+}
+.hm1a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.container{
+    margin: 0 auto;
+    display: inline-block;
+    justify-content:center;
+    text-align: center;
+    margin: 20rem 10rem;
+}
+.tlt{
+    color: white;
+    font-size:35px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    width: 5rem;
+    height: 10px;
+    border: none;
+    color: rgb(255, 94, 0);
+    background-color: rgb(255, 94, 0);
+}
+.btn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    width: 15rem;
+    background-color:rgb(255, 94, 0) ;
+}
